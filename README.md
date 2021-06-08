@@ -2,7 +2,7 @@
 ## Проект выполнил: Елисеев Александр
 
 В проекте используются:
--HTML
--CSS
--Javascript
--Normolize
+- HTML
+- CSS
+- Javascript
+- Normolize
